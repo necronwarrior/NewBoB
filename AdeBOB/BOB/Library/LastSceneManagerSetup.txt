@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/OldBoB/Resources/Scenes/TESTSCENE_3_Hangar.unity
+  isLoaded: 1
+  isActive: 1
