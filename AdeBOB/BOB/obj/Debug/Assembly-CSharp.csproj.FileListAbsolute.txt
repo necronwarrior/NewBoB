@@ -30,3 +30,35 @@ M:\University Local Drive\5th Year\Unity Projects\BOB\Temp\bin\Debug\UnityEngine
 M:\University Local Drive\5th Year\Unity Projects\BOB\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 M:\University Local Drive\5th Year\Unity Projects\BOB\obj\Debug\Assembly-CSharp.dll
 M:\University Local Drive\5th Year\Unity Projects\BOB\obj\Debug\Assembly-CSharp.pdb
+\\StuHome\HomeDrive4$\1302534\Desktop\NewBoB\AdeBOB\BOB\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+\\StuHome\HomeDrive4$\1302534\Desktop\NewBoB\AdeBOB\BOB\Temp\bin\Debug\Assembly-CSharp.dll
+\\StuHome\HomeDrive4$\1302534\Desktop\NewBoB\AdeBOB\BOB\Temp\bin\Debug\Assembly-CSharp.pdb
+\\StuHome\HomeDrive4$\1302534\Desktop\NewBoB\AdeBOB\BOB\Temp\bin\Debug\nunit.framework.dll
+\\StuHome\HomeDrive4$\1302534\Desktop\NewBoB\AdeBOB\BOB\Temp\bin\Debug\UnityEditor.dll
+\\StuHome\HomeDrive4$\1302534\Desktop\NewBoB\AdeBOB\BOB\Temp\bin\Debug\UnityEngine.Analytics.dll
+\\StuHome\HomeDrive4$\1302534\Desktop\NewBoB\AdeBOB\BOB\Temp\bin\Debug\UnityEngine.dll
+\\StuHome\HomeDrive4$\1302534\Desktop\NewBoB\AdeBOB\BOB\Temp\bin\Debug\UnityEngine.HoloLens.dll
+\\StuHome\HomeDrive4$\1302534\Desktop\NewBoB\AdeBOB\BOB\Temp\bin\Debug\UnityEngine.Networking.dll
+\\StuHome\HomeDrive4$\1302534\Desktop\NewBoB\AdeBOB\BOB\Temp\bin\Debug\UnityEngine.TestRunner.dll
+\\StuHome\HomeDrive4$\1302534\Desktop\NewBoB\AdeBOB\BOB\Temp\bin\Debug\UnityEngine.Timeline.dll
+\\StuHome\HomeDrive4$\1302534\Desktop\NewBoB\AdeBOB\BOB\Temp\bin\Debug\UnityEngine.UI.dll
+\\StuHome\HomeDrive4$\1302534\Desktop\NewBoB\AdeBOB\BOB\Temp\bin\Debug\Mono.Cecil.dll
+\\StuHome\HomeDrive4$\1302534\Desktop\NewBoB\AdeBOB\BOB\Temp\bin\Debug\Unity.SerializationLogic.dll
+\\StuHome\HomeDrive4$\1302534\Desktop\NewBoB\AdeBOB\BOB\Temp\bin\Debug\Unity.DataContract.dll
+\\StuHome\HomeDrive4$\1302534\Desktop\NewBoB\AdeBOB\BOB\Temp\bin\Debug\ExCSS.Unity.dll
+\\StuHome\HomeDrive4$\1302534\Desktop\NewBoB\AdeBOB\BOB\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+\\StuHome\HomeDrive4$\1302534\Desktop\NewBoB\AdeBOB\BOB\Temp\bin\Debug\Unity.UNetWeaver.dll
+\\StuHome\HomeDrive4$\1302534\Desktop\NewBoB\AdeBOB\BOB\Temp\bin\Debug\Unity.CecilTools.dll
+\\StuHome\HomeDrive4$\1302534\Desktop\NewBoB\AdeBOB\BOB\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+\\StuHome\HomeDrive4$\1302534\Desktop\NewBoB\AdeBOB\BOB\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+\\StuHome\HomeDrive4$\1302534\Desktop\NewBoB\AdeBOB\BOB\Temp\bin\Debug\UnityEngine.xml
+\\StuHome\HomeDrive4$\1302534\Desktop\NewBoB\AdeBOB\BOB\Temp\bin\Debug\UnityEditor.xml
+\\StuHome\HomeDrive4$\1302534\Desktop\NewBoB\AdeBOB\BOB\Temp\bin\Debug\UnityEngine.UI.xml
+\\StuHome\HomeDrive4$\1302534\Desktop\NewBoB\AdeBOB\BOB\Temp\bin\Debug\UnityEngine.Networking.xml
+\\StuHome\HomeDrive4$\1302534\Desktop\NewBoB\AdeBOB\BOB\Temp\bin\Debug\UnityEngine.TestRunner.xml
+\\StuHome\HomeDrive4$\1302534\Desktop\NewBoB\AdeBOB\BOB\Temp\bin\Debug\nunit.framework.xml
+\\StuHome\HomeDrive4$\1302534\Desktop\NewBoB\AdeBOB\BOB\Temp\bin\Debug\UnityEngine.Timeline.xml
+\\StuHome\HomeDrive4$\1302534\Desktop\NewBoB\AdeBOB\BOB\Temp\bin\Debug\UnityEngine.Analytics.xml
+\\StuHome\HomeDrive4$\1302534\Desktop\NewBoB\AdeBOB\BOB\Temp\bin\Debug\UnityEngine.HoloLens.xml
+\\StuHome\HomeDrive4$\1302534\Desktop\NewBoB\AdeBOB\BOB\obj\Debug\Assembly-CSharp.dll
+\\StuHome\HomeDrive4$\1302534\Desktop\NewBoB\AdeBOB\BOB\obj\Debug\Assembly-CSharp.pdb

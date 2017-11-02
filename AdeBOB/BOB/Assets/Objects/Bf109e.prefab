@@ -72,11 +72,11 @@ GameObject:
   m_Component:
   - component: {fileID: 4894912105248856}
   - component: {fileID: 136036888023146748}
-  - component: {fileID: 114050339295883144}
   - component: {fileID: 54996710229323128}
   - component: {fileID: 65392431238535212}
   - component: {fileID: 114080601161254992}
   - component: {fileID: 82694647886439418}
+  - component: {fileID: 114646535668933158}
   m_Layer: 0
   m_Name: Bf109e
   m_TagString: Untagged
@@ -123,7 +123,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1756991403462476}
   m_LocalRotation: {x: 0, y: 0.7071068, z: -0, w: -0.7071068}
-  m_LocalPosition: {x: 99.5, y: 13.2, z: -6.3999977}
+  m_LocalPosition: {x: 0, y: 10, z: 0}
   m_LocalScale: {x: 0.001000001, y: 0.001, z: 0.001000001}
   m_Children:
   - {fileID: 224559933011972862}
@@ -195,7 +195,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 10000, y: 1, z: 2000}
+  m_Size: {x: 14000, y: 1, z: 2500}
   m_Center: {x: 0, y: 0, z: 1846.57}
 --- !u!82 &82694647886439418
 AudioSource:
@@ -294,31 +294,6 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
---- !u!114 &114050339295883144
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1756991403462476}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a460177aaf1988c4a91041a44a6a38b6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  britishPlane: 0
-  targetLocation: {x: 0, y: 0, z: 10}
-  targetPlane: {fileID: 0}
-  speed: 10
-  accelration: 1000
-  rotationSpeed: 40
-  planeState: 2
-  shotDistance: 40
-  ready2Fire: 1
-  shotSpeed: 0.4
-  bullet: {fileID: 1634103511814296, guid: c6fe0d6fa129f034b92efee81a772755, type: 2}
-  health: {fileID: 0}
-  formationFlying: 0
-  formationTarget: {x: 0, y: 0, z: 0}
 --- !u!114 &114080601161254992
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -400,6 +375,36 @@ MonoBehaviour:
   xOffset: 0
   yOffset: 0
   zOffset: -7
+--- !u!114 &114646535668933158
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1756991403462476}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 216fa09d6258a83438c858f8299c71e0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  britishPlane: 0
+  targetLocation: {x: 0, y: 0, z: 0}
+  targetPlane: {fileID: 0}
+  speed: 10
+  accelration: 1000
+  rotationSpeed: 80
+  planeState: 0
+  shotDistance: 1
+  ready2Fire: 1
+  shotSpeed: 0
+  bullet: {fileID: 0}
+  health: {fileID: 0}
+  formationFlying: 0
+  formationGroup: {fileID: 0}
+  formationTarget: {x: 0, y: 0, z: 0}
+  targetObject: {fileID: 0}
+  bombDamage: 34
+  swerve: 0
+  tempswerve: {x: 0, y: 0, z: 0}
 --- !u!114 &114856754964250394
 MonoBehaviour:
   m_ObjectHideFlags: 1
